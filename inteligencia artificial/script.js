@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta1",
+        enunciado: "Como um torcedor pode afetar uma estação de trem inteira por causa de uma aposta errada?",
 
         alternativas: ["Alternativa 1",
             "Alternativa 2"
@@ -18,5 +18,34 @@ const perguntas = [
         alternativas: ["Alternativa 1",
             "Alternativa 2"
         ]
-    }
+    }, 
+    {
+        enunciado: "Pergunta2",
+        alternativas: ["Alternativa 1",
+            "Alternativa 2"
+        ]
+    }, 
+    {
+        enunciado: "Pergunta2",
+        alternativas: ["Alternativa 1",
+            "Alternativa 2"
+        ]
+    }, 
+    {
+        enunciado: "Pergunta2",
+        alternativas: ["Alternativa 1",
+            "Alternativa 2"
+        ]
+    }, 
 ];
+
+let atual = 0;
+let perguntaAtual;
+
+function mostraPergunta() {
+    perguntaAtual = perguntas[atual];
+    caixaPerguntas.textContent = perguntaAtual.enunciado;
+
+}
+
+mostraPergunta();
