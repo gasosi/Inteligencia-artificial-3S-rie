@@ -20,10 +20,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Que medidas de segurança devem ser tomadas contra brigas de torcedores em relação a população que utiliza  os transportes públicos?",
         alternativas: [
-            "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-            "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores."
+            "No ingresso deve ser cobrado uma taxa adicional referente a um frete de ônibus, assim após o final da partida os torcedores serão direcionados aos seus respectivos transportes, evitando conflitos.",
+            "Outra medida de para combater a violência é que um agente de segurança acompanhem os torcedores nos transportes públicos/privados para que a deslocação seja feita de forma pacífica."
         ]
     },
     {
