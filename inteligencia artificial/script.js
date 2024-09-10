@@ -8,7 +8,14 @@ const perguntas = [
     {
         enunciado: "Como um torcedor pode afetar uma estação de trem inteira por causa de uma aposta errada?",
         alternativas: [
-            "Fazer com que o ambiente seja mais perigoso e violento, podendo resultar em feridos e até óbitos.",
+            {
+                texto: "Fazer com que o ambiente seja mais perigoso e violento, podendo resultar em feridos e até óbitos.",
+                afirmacao:"afirmacao"
+            },
+            {
+                texto:
+            }
+           
             "Pode quebrar uma coisa ou outra da estação, mas logo pode ser contido e preso pela polícia."
         ]
     },
