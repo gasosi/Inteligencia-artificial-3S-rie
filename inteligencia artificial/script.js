@@ -13,10 +13,10 @@ const perguntas = [
                 afirmacao:"afirmacao"
             },
             {
-                texto:
+                texto:"Pode quebrar uma coisa ou outra da estação, mas logo pode ser contido e preso pela polícia."
             }
            
-            "Pode quebrar uma coisa ou outra da estação, mas logo pode ser contido e preso pela polícia."
+            
         ]
     },
     {
